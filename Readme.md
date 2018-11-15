@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomControl.cs](./CS/CustomControl.cs) (VB: [CustomControl.vb](./VB/CustomControl.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # How to provide display names for custom properties or a custom control
 
 
